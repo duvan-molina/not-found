@@ -8,10 +8,9 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://duvan-molina.github.io/not-found">
+    <a href="https://duvan-molina.github.io/not-found">
       Demo
     </a>
-    <span> | </span>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
