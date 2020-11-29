@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Not Found | 404}</h1>
+<h1 align="center">Not Found | 404</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://duvan-molina.github.io/not-found">
       Demo
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{duvanmolina.com})
-- GitHub [@your-username](https://{github.com/duvan-moliina})
-- Twitter [@your-twitter](https://{twitter.com/duvan_moliina})
+- Website [your-website.com](https://duvanmolina.com)
+- GitHub [@your-username](https://github.com/duvan-moliina})
+- Twitter [@your-twitter](https://twitter.com/duvan_moliina)
